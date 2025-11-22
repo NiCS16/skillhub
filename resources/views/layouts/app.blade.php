@@ -30,9 +30,6 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/') }}">Home</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="{{ route('peserta.index') }}">Peserta</a>
                     </li>
                     <li class="nav-item">
